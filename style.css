@@ -25,6 +25,18 @@ body {
   background-color: black;
 }
 
+.row {
+  display: flex;
+}
+
+.row-reverse {
+  flex-direction: row-reverse;
+}
+
+.column {
+  flex-direction: column;
+}
+
 .justify-center {
   justify-content: center;
 }
@@ -39,4 +51,8 @@ body {
 
 .align-self-end {
   align-self: flex-end;
+}
+
+.align-self-center {
+  align-self: center;
 }
