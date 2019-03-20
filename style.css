@@ -3,6 +3,7 @@ body {
   flex-direction: row-reverse;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
   height: 100vh;
   background-color: slateblue;
 }
