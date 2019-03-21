@@ -23,7 +23,8 @@
   Here, I will describe the basics of Flexbox so that students can learn more about it later following different resources. As everybody is aware that we have two axes on the computer display system in positioning items, horizontal and vertical. Flexbox by default follows horizontal direction unless defined otherwise. After defining the main axis and cross axis, items can be positioned along both the axes. Here in this lesson, we will first learn how to position every item on the axes. Then we can move on to how to style single item individually in either the main axis or the cross axis.
 </p>
 
-####Now let us start writing the codebase.
+#### Now let us start writing the codebase.
+
 <ol>
   <li>
     For the demonstration, I will create a directory(folder) with the name "flexbox-intro" in which I will have files "index.html" and "style.css". Please note I do not use javaScript in this lesson. Now, I will create a number of dice using different attributes in the HTML file and flexbox properties in the CSS file. I hope this will be intuitive and keep you guys engaging until you understand it. We can do so by using the Terminal on Macbook computer or Comand Prompt on Windows. We will use the commands (a) "mkdir flexbox-intro", (b) "cd flexbox-intro", and (c) "touch index.html style.css". We can create folders and files by using the GUI as well, it's upto you. Now open the directory (or folder) using a text editor. I will use the Visual Code text editor in this case. However, you can use Atom, Sublime, or anything you prefer.  
